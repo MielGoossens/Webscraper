@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "CHQ5h6IMv9VaVvfiFO6c9cjrfkOWkRIYmkqcQ8+5iFg0/ctYm0U6DMtUN33KdntSAJMbDVRpH070RoGluI8G2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mielg\\Desktop\\Devops\\Webscraper_Goossens_Miel\\Webscraper_Goossens_Miel\\Webscraper_Goossens_Miel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mielg\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\mielg\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mielg\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\mielg\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\mielg\\.nuget\\packages\\selenium.webdriver.chromedriver\\96.0.4664.4500\\selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512",
+    "C:\\Users\\mielg\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.1\\microsoft.netcore.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\mielg\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\mielg\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.1\\microsoft.aspnetcore.app.runtime.win-x64.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+C:\Users\mielg\Desktop\Devops\Webscraper_Goossens_Miel\Webscraper_Goossens_Miel\bin\Release\net6.0\win-x64\publish\Webscraper_Goossens_Miel.pdb
+C:\Users\mielg\Desktop\Devops\Webscraper_Goossens_Miel\Webscraper_Goossens_Miel\bin\Release\net6.0\win-x64\publish\Webscraper_Goossens_Miel.exe
